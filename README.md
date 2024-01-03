@@ -1,3 +1,4 @@
+![logo](https://github.com/VIMALKUMAR23/VIMALKUMAR23/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding_img" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
