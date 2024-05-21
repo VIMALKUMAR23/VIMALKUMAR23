@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [VIMALKUMAR23](VIMALKUMAR23)
+- 👨‍💻 All of my projects are available at [[VIMALKUMAR23](VIMALKUMAR23)](https://github.com/VIMALKUMAR23)
 
 - 💬 Ask me about **html , Css , Js**
 
