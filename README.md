@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkumar23" /> </p>
 
-- 🔭 I’m currently working on **Keeper App**
+- 🔭 I’m currently working on **Blog App(DevBlog)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux toolkit**
 
 - 👨‍💻 All of my projects are available at [[VIMALKUMAR23](VIMALKUMAR23)](https://github.com/VIMALKUMAR23)
 
 - 💬 Ask me about **html , Css , Js**
 
-- 📫 How to reach me **vimal01547@gmail**
+- 📫 How to reach me **vimaldev5858@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
